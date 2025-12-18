@@ -1,0 +1,10 @@
+p0'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p1 - 9*lambda*p0
+p1'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p2 + 9*lambda*p0 - (8*lambda+mu)*p1
+p2'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p3 + 8*lambda*p1 - (7*lambda+mu)*p2
+p3'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p4 + 7*lambda*p2 - (6*lambda+mu)*p3
+p4'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p5 + 6*lambda*p3 - (5*lambda+mu)*p4
+p5'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p6 + 5*lambda*p4 - (4*lambda+mu)*p5
+p6'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p7 + 4*lambda*p5 - (3*lambda+mu)*p6
+p7'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p8 + 3*lambda*p6 - (2*lambda+mu)*p7
+p8'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = mu*p9 + 2*lambda*p7 - (1*lambda+mu)*p8
+p9'(t, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9) = 1*lambda*p8 - (0*lambda+mu)*p9

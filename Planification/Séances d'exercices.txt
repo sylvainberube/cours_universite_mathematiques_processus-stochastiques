@@ -1,0 +1,101 @@
+(voir Moodle STT489 Été 2021)
+
+
+Mercredi 12 mai
+
+Plusieurs exercices sont au programme pour cette première séance d'exercices. On ne les complèterons probablement pas tous.
+
+    Démonstration de trois propriétés de base (exercices 1.5, 1.24, 1.18).
+    Problème de base de calculs d'espérance, de variance et de probabilité par conditionnement (exercice 1.22).
+    Démonstration et exercice sur l'identité de Wald (exercices 1.12, 1.13, 1,14).
+    Problèmes plus funky de calculs d'espérances et de variances par conditionnement (exercices 1.9, 1.11, 1.19).
+
+Mercredi 19 mai
+
+Une partie de la séance d'exercices sera peut-être employée pour compléter la section 2.1. Également, il est possible que vous disposiez de temps pour travailler sur le devoir 1.
+
+    Propriété de base d'une matrice stochastique (exercice 2.2).
+    Modélisation d'un processus stochastique (exercices 2.7ab, 2.20, 2.24a).
+
+Mercredi 26 mai
+
+Beaucoup de plaisir avec les matrices des n-transitions et l'exploration de certaines propriétés des chaînes de Markov et de leurs états.
+
+    Jeu de serpents et échelles vu comme une chaîne de Markov (exercice -1.3)
+    Classification des états : récurrents ou transitoires (exercices 2.7cd, 2.24b)
+    Calcul d'espérance de X_n (exercice 2.21)
+    Calcul d'espérance et distribution de N_i + applications (exercices 2.4, 2.5)
+    Propriétés des états récurrents et transitoires (exercices 2.6, 2.23, 2.25, 2.26)
+
+Mercredi 2 juin
+
+État ergodique ou pas ergodique, là est la question.
+
+    Démonstration de l'invariance de la période d'un état sous ↔ (exercice 2.10)
+    Ergodicité (exercices 2.9, 2.28)
+    Nouvelle notation sur les temps de retour (exercice 2.13)
+    Propriétés des états récurrents et transitoires (exercices 2.6, 2.23, 2.25, 2.26)
+
+Au besoin, pour compléter :
+
+    Ergodicité (exercices 2.16, 2.32)
+    Ergodicité++ (exercices 2.17, 2.27)
+    Propriétés des états récurrents et transitoires (exercices 2.6, 2.23, 2.25, 2.26)
+
+Mercredi 9 juin
+
+Fin du chapitre 2 : va-t-on enfin aborder les exercices traitant des propriétés des états récurrents et transitoires?
+
+    Problème de la ruine du joueur (exercices 2.15, 2.19, 2.22, 2.33 b)
+    Processus de branchement (exercice 2.36)
+    Propriétés des états récurrents et transitoires (exercices 2.6, 2.23, 2.25, 2.26)
+
+Au besoin, pour compléter :
+
+    Ergodicité (exercices 2.16, 2.32)
+    Ergodicité++ (exercices 2.17, 2.27)
+
+Mercredi 16 juin
+
+Début des processus de Poisson, notre premier exemple de chaîne de Markov à temps continu.
+
+    La loi exponentielle, et seulement la loi exponentielle, est sans mémoire (exercice 3.2)
+    Particularités d'une variable aléatoire sans mémoire (exercices 3.1, 3.3, 3.4)
+    Application de la loi exponentielle (exercice 3.16)
+
+Mercredi 30 juin
+
+Applications des processus de Poisson.
+
+    Obtention d'un rein (exercice 3.6)
+    Passagers à la gare (exercice 3.7)
+    Patients à l'urgence (exercice 3.8)
+    Division cellulaire (exercice 3.14)
+
+Mercredi 7 juillet
+
+Début du chapitre 4 sur les chaînes de Markov continu.
+
+    Modélisation de différentes situations (exercices 4.1, 4.2, 4.10, 4.13)
+
+Mercredi 14 juillet
+
+Probabilités limites des chaînes de Markov continu.
+
+    Exercices 4.9, 4.14, 4.15.
+
+Mercredi 21 juillet
+
+Files d'attente.
+
+    Exercices 5.1, 5.2, 5.3, 5.4.
+
+Mercredi 28 juillet
+
+Files d'attente.
+
+    Exercices 5.5, 5.6, 5.7, 5.8, 5.9.
+
+Mercredi 4 août
+
+Examens finaux de 2012 et 2013.
